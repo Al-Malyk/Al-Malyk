@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Al-Malyk
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me al-keytree@outlook.com
 
 <!---
